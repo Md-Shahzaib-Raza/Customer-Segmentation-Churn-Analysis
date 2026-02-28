@@ -12,7 +12,7 @@ First, I analyzed the basic demographic makeup of the customer base.
 
 ### 2. Household Composition & Segmentation
 I investigated the relationship between having a partner and having dependents to better understand household "stickiness."
-![Partner vs Dependents](outputs\figures\Partner_Distribution_by_Dependents.png)
+![Partner vs Dependents](outputs/figures/Partner_Distribution_by_Dependents.png)
 
 **Key Insights:**
 * **The "Independent" Segment:** The largest single group consists of customers with no partner and no dependents. Historically, these "single" households are often higher churn risks.
@@ -25,7 +25,7 @@ I investigated the relationship between having a partner and having dependents t
 
 I analyzed 9 different services to identify which ones act as "Anchors" (keeping customers loyal) and which are "Churn Magnets."
 
-![Service Churn Analysis](outputs\figures\Service_Distribution_by_Churn.png)
+![Service Churn Analysis](outputs/figures/Service_Distribution_by_Churn.png)
 
 ### 📊 Service Analysis Summary
 
@@ -54,7 +54,7 @@ During the Exploratory Data Analysis (EDA), it became clear that **Internet Serv
 ### 📉 The "Bundle Effect" Segmented by Service Type
 I visualized the relationship between the number of services and churn probability, using **Internet Service** as the grouping variable (`hue`) to reveal these hidden trends.
 
-![Bundle Effect Final](outputs\figures\Churn_Rate_by_Total_Services.png)
+![Bundle Effect Final](outputs/figures/Churn_Rate_by_Total_Services.png)
 
 **Key Discovery:** For **Fiber Optic** users, the "Danger Zone" is having 0 or 1 service (Churn > 40%). For **No Internet** users, having 0 services is a "Safe Zone" (Churn < 10%). This confirms that internet type is the most critical segmenting factor for our predictive model.
 
