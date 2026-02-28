@@ -36,7 +36,7 @@ I analyzed 9 different services to identify which ones act as "Anchors" (keeping
 | **Tech Support** | **High Retention** | Acts as a strong "Anchor" service for long-term loyalty. |
 | **Streaming Services** | **Moderate** | Associated with lower churn, likely due to the "Entertainment Bundle" effect. |
 | **Phone/Multiple Lines** | **Neutral** | Shows no significant statistical difference in churn behavior. |
-| **Lower Churn Propensity:** There is a much higher proportion of "No Internet Service" customers in the "No Churn" category than in the "Churn" category. |
+**Lower Churn Propensity:** There is a much higher proportion of "No Internet Service" customers in the "No Churn" category than in the "Churn" category.
 
 **Key Takeaway:** The data suggests that "Protection" and "Support" services are the strongest drivers of customer retention. Moving customers from "DSL" to "Fiber" without addressing the high churn rate could be a financial risk for the company.
 
