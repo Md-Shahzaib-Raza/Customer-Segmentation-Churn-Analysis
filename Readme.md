@@ -173,6 +173,8 @@ To translate behavior into actionable strategy, I categorized the customer base 
 #### 📊 Comparison of RFM Segments by Behavior
 To understand the internal drivers of each group, I analyzed the mean Recency, Frequency, and Monetary scores across all five archetypes. This behavioral breakdown identifies exactly how each segment interacts with the service.
 
+![RFM Segments by Behavior](outputs/figures/rfm_segment_score_comparison.png)
+
 **Behavioral Insights:**
 * **VIP/Loyal (Highest Value):** This segment holds the highest Frequency and Monetary scores, indicating deep service bundling and high lifetime spend. Interestingly, their Recency score is lower than other groups, suggesting they are high-intensity users who may have shorter tenure or require a "re-engagement" touchpoint.
 
