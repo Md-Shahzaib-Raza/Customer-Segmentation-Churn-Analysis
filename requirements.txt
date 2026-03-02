@@ -6,3 +6,8 @@ numpy
 jupyterlab
 xgboost
 shap
+statsmodels
+plotly
+nbformat
+imbalanced-learn
+kaleido
